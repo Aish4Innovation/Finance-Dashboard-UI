@@ -1,5 +1,6 @@
 # Finance-Dashboard-UI
 
+
 Overview
 
 Finance Dashboard UI is a frontend application built to help users track and understand their financial activity through a clean and interactive interface. The project focuses on intuitive design, modular component structure, and efficient state handling using mock data.
@@ -55,6 +56,33 @@ Dark-themed UI for better visual hierarchy
 Data Handling
 Uses static/mock data
 Designed in a way that can be easily extended to integrate APIs
+
+
+Project Structure
+
+<img width="371" height="770" alt="image" src="https://github.com/user-attachments/assets/485f8ce4-979a-44d0-af75-6fc0ad002102" />
+
+Setup Instructions
+Prerequisites
+Node.js (v18 or higher)
+npm
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Aish4Innovation/Finance-Dashboard-UI.git
+cd Finance-Dashboard-UI
+
+Install dependencies:
+
+npm install
+
+Run the application:
+
+npm run dev
+
+Open in browser:
+http://localhost:5173
 
 
 Project Structure
