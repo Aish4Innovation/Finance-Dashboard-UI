@@ -1,7 +1,6 @@
 # Finance-Dashboard-UI
 
 
-# Finance Dashboard UI
 
 ## Overview
 
@@ -105,28 +104,8 @@ Open in browser:
 http://localhost:5173
 
 
-Project Structure
 
-<img width="371" height="770" alt="image" src="https://github.com/user-attachments/assets/485f8ce4-979a-44d0-af75-6fc0ad002102" />
 
-Setup Instructions
-Prerequisites
-Node.js (v18 or higher)
-npm
-Installation
-
-Clone the repository:
-
-git clone https://github.com/Aish4Innovation/Finance-Dashboard-UI.git
-cd Finance-Dashboard-UI
-
-Install dependencies:
-
-npm install
-
-Run the application:
-
-npm run dev
 
 Open in browser:
 http://localhost:5173
