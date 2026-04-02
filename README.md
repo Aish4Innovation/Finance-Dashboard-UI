@@ -55,30 +55,12 @@ Dark-themed UI for better visual hierarchy
 Data Handling
 Uses static/mock data
 Designed in a way that can be easily extended to integrate APIs
+
+
 Project Structure
-findash/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── AddTransactionModal.jsx
-│   │   ├── AddTransactionModal.css
-│   │   ├── BalanceTrend.jsx
-│   │   ├── BalanceTrend.css
-│   │   ├── Header.jsx
-│   │   ├── Header.css
-│   │   ├── SpendingBreakdown.jsx
-│   │   ├── SpendingBreakdown.css
-│   │   ├── StatCards.jsx
-│   │   ├── StatCards.css
-│   │   ├── Transactions.jsx
-│   │   └── Transactions.css
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── index.css
-├── package.json
-└── README.md
+
+<img width="371" height="770" alt="image" src="https://github.com/user-attachments/assets/485f8ce4-979a-44d0-af75-6fc0ad002102" />
+
 Setup Instructions
 Prerequisites
 Node.js (v18 or higher)
